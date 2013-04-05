@@ -3,7 +3,7 @@ AlphaDecoder
 
 Simple ruby decoder that takes a numeric value and parses out all alpha values based on decoding rules.
 
-Originally I was asked this as an interview question, originally wrote it in Javascript, and have since ported to Ruby and wanted to rework it.
+Originally I was asked this as an interview question and wrote it in Javascript, and have since ported to Ruby and wanted to rework it.
 
 You could have some fun with this if you have kids, write them messages and they can use this tool to help decode.
 
